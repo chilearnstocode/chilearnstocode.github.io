@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: vi"
-tag: vi
+title: "Tag: welcome"
+tag: welcome
 robots: noindex
 ---

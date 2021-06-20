@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bàn về đạo đức"
-tags: vi
+tags: vi spiderum
 excerpt_separator: <!--more-->
 published: false
 ---
