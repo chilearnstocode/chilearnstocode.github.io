@@ -3,7 +3,7 @@ layout: post
 title: "Anh hùng thời hiện đại"
 tags: vi spiderum
 excerpt_separator: <!--more-->
-published: false
+published: true
 ---
 
 
@@ -13,10 +13,7 @@ Những ngày gần đây, việc hai hiệp sĩ và một người dân bị đ
 
 Mình rất thích cách nhiều truyện tranh phương Tây miêu tả hình tượng người anh hùng: được người dân yêu mến nhưng lại bị chính phủ căm ghét và thường bị xem như tội phạm truy nã. Bởi vì sao? Các anh hùng ra tay triệt phá tội phạm, phán quyết và thậm chí có người còn thi hành án, vốn là công việc của cảnh sát và bộ máy công quyền, nếu họ để yên cho các anh hùng tự do hành động thì chẳng phải xã hội hiện đại quay về cái thời mà "giữa đường gặp chuyện bất bình chẳng tha", cái thời mà "phép vua thua lệ làng" hay sao? Chúng ta có bộ máy nhà nước, chúng ta đóng thuế để cảnh sát giữ gìn trật tự xã hội nên cảnh sát phải là người bảo vệ công lý chứ không phải người dân.
 
-<figure class="image">
-    <img src='/assets/img/anh-hung-thoi-hien-dai-1.jpeg' width='800px' alt='missing' />
-    <figcaption style="text-align:center;"><i>Superman Reveal</i></figcaption>
-</figure>
+{% include image name="1.jpeg"  caption="Superman Reveal" width="800px" %}
 
 Sự xuất hiện của các anh hùng, hiệp sĩ từ xưa đến nay đều xuất phát từ sự căm thù đối với cái ác và những bất công trong xã hội; họ sống trong xã hội mà cái ác thì lộng hành và chính quyền thì không bảo vệ được người dân. Nhưng tại sao chỉ có một số người muốn trở thành hiệp sĩ mà rất nhiều người khác lại không? Tại sao mọi người tuy không phải hiệp sĩ nhưng luôn tán đồng với những hành động nghĩa hiệp? 
 

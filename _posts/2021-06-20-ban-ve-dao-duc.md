@@ -3,7 +3,7 @@ layout: post
 title: "Bàn về đạo đức"
 tags: vi spiderum
 excerpt_separator: <!--more-->
-published: false
+published: true
 ---
 
 Khái niệm đạo đức gắn liền với sự phát triển của nhân loại, chính khả năng tư duy của giống loài chúng ta đã tạo nên một khái niệm mà các loài khác không hề biết tới. Nhưng các chuẩn mực đạo đức có thực sự là thước đo chính xác nhất để đánh giá một con người?
@@ -14,10 +14,7 @@ Một trong những định nghĩa về đạo đức trong từ điển tiếng
 
 Từ những điều trên dẫn chúng ta đến câu hỏi tiếp theo: Vậy đạo đức có luôn đúng? Hay đúng hơn là liệu đám đông có luôn đúng? Và như thế nào là đúng? Các câu hỏi khiến chúng ta lâm vào một cái bẫy logic: một điều là đúng khi đám đông công nhận nó là đúng, vậy điều mà được đám đông công nhận chẳng phải là luôn luôn đúng hay sao? Lưu ý là ở đây đám đông mang ý nghĩa toàn thể xã hội loài người, và mình sẽ tạm chia làm hai loại đúng là Đúng với xã hội và Đúng với cá thể - có thể là một nhóm nhỏ, một dân tộc, một nền văn hóa,..., cái đúng trong lập luận trên đương nhiên là Đúng với xã hội, vậy còn khi nào thì Đúng với cá thể? Đó là khi một người làm những việc trái với đạo đức; con người có nhận thức sẽ không làm gì trái đạo đức, cho đến khi... họ tạo ra đạo đức mới.
 
-<figure class="image">
-    <img src='/assets/img/ban-ve-dao-duc-1.jpeg' width='800px' alt='missing' />
-    <figcaption style="text-align:center;"><i>Holocaust Memorial by George Segal</i></figcaption>
-</figure>
+{% include image name="1.jpeg"  caption="Holocaust Memorial by George Segal" width="800px" %}
 
 Trong lịch sử, trường hợp Đúng với cá thể dễ nhận thấy nhất là ở Đức: có thời kỳ 90% dân Đức tung hô Hitler như một vị thánh, một vị cứu tinh của dân tộc, và 10% còn lại đương nhiên bị chính dân tộc mình kỳ thị và xa lánh, là một đám thân-Do-Thái hạ đẳng. Ở thời điểm đó, rõ ràng đám đông 90% kia nắm trong tay quyền định đoạt đạo đức, họ có thể đánh đập và tàn sát dân Do Thái mà không bị pháp luật trừng trị, vì hành vi đó đối với bản thân họ là ĐÚNG, nhưng đối với phần còn lại của thế giới, hành vi đó là SAI. Vậy ai đúng ai sai? Vì phần còn lại của thế giới chắc chắn đông hơn hẳn 90% dân Đức đó nên lịch sử đã ghi nhận Holocaust như một tội ác kinh hoàng, chứ nếu như 90% kia là 90% nhân loại trên thế giới thì sách sử đã được viết theo một hướng hoàn toàn khác.
 
