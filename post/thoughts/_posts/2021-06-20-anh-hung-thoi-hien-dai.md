@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anh hùng thời hiện đại"
-tags: vi
+tags: vi spiderum
 excerpt_separator: <!--more-->
 published: false
 ---

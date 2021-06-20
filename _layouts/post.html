@@ -23,10 +23,9 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
-  {% if page.tags.size > 0 %}
-    Tag{% if page.tags.size > 1 %}s{% endif %}:
-    {{ page.tags | sort | join: ", " }}
-  {% endif %}
+  {% for tag in page.tags %}
+    <a href="/tag/{{ tag }}"><code class="highligher-rouge"><nobr>{{ tag }}</nobr></code></a>
+  {% endfor %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
