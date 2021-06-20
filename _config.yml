@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "twitter_username:"
 permalink: /:categories/:title/
 
 # social links
+# twitter_username: jekyll
 github_username:  chitran96
 linkedin_username: chitran96
 # dribbble_username: jekyll
@@ -34,14 +35,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    github:  chitran96
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: chitran96
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
