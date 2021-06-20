@@ -1,20 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: chilearnstocode
+author: chitran96
+email: trancamchi96@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site is so awesome!!!
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+github_username:  chitran96
+linkedin_username: chitran96
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
