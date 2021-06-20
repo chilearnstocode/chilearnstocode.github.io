@@ -4,6 +4,8 @@ email: trancamchi96@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
   This site is so awesome!!!
 
+permalink: /:categories/:title/
+
 # social links
 github_username:  chitran96
 linkedin_username: chitran96
@@ -23,7 +25,7 @@ linkedin_username: chitran96
 #   instance: example.com
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

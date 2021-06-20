@@ -1,0 +1,28 @@
+#!/bin/sh
+
+# Check number of arguments
+if [[ $# -ne 1 ]]; then
+    echo "Invalid arguments" >&2
+    echo "$0 POST_TITLE" >&2
+    echo "Ex. $0 hello" >&2
+    exit 1
+fi
+
+POST_NAME=$1
+PREFIX=$(date +"%Y-%m-%d")
+DIR="_posts"
+FILE_NAME=${PREFIX}-${POST_NAME}.md
+
+if [ ! -d "$DIR" ]
+then
+    echo "Error: Directory $DIR does not exists."
+    mkdir -p $DIR
+fi
+
+if [ -f "$DIR/$FILE_NAME" ];
+then
+    echo "$FILE_NAME exists."
+    exit 0
+fi
+
+touch ${DIR}/${FILE_NAME}
