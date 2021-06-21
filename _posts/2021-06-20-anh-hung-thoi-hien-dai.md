@@ -3,7 +3,6 @@ layout: post
 title: "Anh hùng thời hiện đại"
 tags: vi spiderum
 excerpt_separator: <!--more-->
-published: true
 ---
 
 

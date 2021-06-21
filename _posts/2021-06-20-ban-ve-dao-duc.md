@@ -3,7 +3,6 @@ layout: post
 title: "Bàn về đạo đức"
 tags: vi spiderum
 excerpt_separator: <!--more-->
-published: true
 ---
 
 Khái niệm đạo đức gắn liền với sự phát triển của nhân loại, chính khả năng tư duy của giống loài chúng ta đã tạo nên một khái niệm mà các loài khác không hề biết tới. Nhưng các chuẩn mực đạo đức có thực sự là thước đo chính xác nhất để đánh giá một con người?
